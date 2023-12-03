@@ -34,14 +34,9 @@ const examples = [
     code: "https://github.com/shadcn/ui/tree/main/apps/www/app/examples/forms",
   },
   {
-    name: "Music",
-    href: "/music",
-    code: "https://github.com/shadcn/ui/tree/main/apps/www/app/examples/music",
-  },
-  {
-    name: "Authentication",
-    href: "/authentication",
-    code: "https://github.com/shadcn/ui/tree/main/apps/www/app/examples/authentication",
+    name: "Login",
+    href: "/",
+    code: "https://github.com/shadcn/ui/tree/main/apps/www/app/examples/forms",
   },
 ]
 
