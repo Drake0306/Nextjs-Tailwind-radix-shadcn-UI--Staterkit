@@ -3,23 +3,14 @@
 ## Table of Contents
 
 - [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
+- [Installation](#installation)
+
 
 ## Getting Started
  * if you find any issue please create an issue explaining it in detail
- * To contribute to this a PR maintainer will review it and then merge it 
+ * To contribute to this a PR maintainer will review it and then merge it
+   
 ### Installation
-
-To run the project
-* make sure you have node v18.17.0
-* clone the repo
-* npm i
-* npm run dev // for running dev server
-* npm build // to build the project
-
 ```bash
 # Clone the repository
 git clone https://github.com/your-username/your-project.git
@@ -27,6 +18,10 @@ git clone https://github.com/your-username/your-project.git
 # Navigate to the project directory
 cd your-project
 
+# Check node version
+make sure you have node v18.17.0
+
 # Install dependencies
 npm install
-npm run dev
+npm run dev // for running the dev server
+npm build // to build the project
